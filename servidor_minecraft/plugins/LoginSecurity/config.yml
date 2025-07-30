@@ -19,10 +19,10 @@ join:
   blindness: true
   # Temporarily login location until player has logged in.
   # Available options: DEFAULT, SPAWN
-  location: DEFAULT
+  location: special
   # Safely hides the player's inventory until the player is logged in
   # This required ProtocolLib to be installed
-  hide-inventory-safe: false
+  hide-inventory-safe: true
 username:
   # Remove special characters like @ and # from the username.
   # Disabling this can be a security risk!
@@ -51,4 +51,4 @@ login-message-delay: 10
 # Language for messages, check wiki for more info.
 # List: https://github.com/lenis0012/Translations
 # This setting should be set tot he file name without .json
-language: en_us
+language: es_es
