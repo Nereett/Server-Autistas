@@ -65,7 +65,7 @@ Welcome-Ad:
 # you want with restrictions that suit your needs
 # Advertisement configuration, you can set up as many as you want with restrictions that suit your needs
 Ads-Configuration:
-  Ads-Cooldown: 9000000 # In Seconds, For all ads
+  Ads-Cooldown: 9000000unre # In Seconds, For all ads
   Ad-Example-1:
     worlds:
       - world

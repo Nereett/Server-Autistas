@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1753842006124
-  login: 1753845352854
+  logout: 1753846514085
+  login: 1753846527180
 money: '0'
 last-account-name: frannx777
 logoutlocation:
   world: 8f2167b3-d076-4ea4-9699-ee4e4760bca7
   world-name: world
-  x: -452.7562104868883
-  y: 114.50105948077375
-  z: 744.798785370875
-  yaw: -15.155082702636719
-  pitch: 41.68657684326172
+  x: 13.902549718494065
+  y: 82.25683897827064
+  z: 62.778165848170474
+  yaw: 145.7873077392578
+  pitch: 43.50645446777344
 lastlocation:
   world: 8f2167b3-d076-4ea4-9699-ee4e4760bca7
   world-name: world
